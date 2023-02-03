@@ -1,0 +1,39 @@
+[
+    {
+        "type": "article",
+        "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+        "details": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "imgURL": "https://i.ibb.co/W2whFH8/article.png",
+        "userImg": "https://i.ibb.co/FXq1QyB/user-article.png",
+        "userName": "Sarthak Kamra",
+        "views": "1.4k"
+    },
+    {
+        "type": "education",
+        "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+        "details": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "imgURL": "https://i.ibb.co/vs8cg3R/education.png",
+        "userImg": "https://i.ibb.co/VxnMr9Y/user-education.png",
+        "userName": "Sarah West",
+        "views": "1.4k"
+    },
+    {
+        "type": "event",
+        "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+        "date": "Fri, 12 Oct, 2018",
+        "location": "Ahmedabad, India",
+        "imgURL": "https://i.ibb.co/S0JwJnB/meetup.png",
+        "userImg": "https://i.ibb.co/MgL6y6r/user-meetup.png",
+        "userName": "Ronal Jones",
+        "views": "1.4k"
+    },
+    {
+        "type": "job",
+        "title": "Software Developer",
+        "company": "Innovaccer Analytics Private Ltd.",
+        "location": "Noida, India",
+        "userImg": "https://i.ibb.co/dQjyDZq/user-job.png",
+        "userName": "Ronal Jones",
+        "views": "1.4k"
+    }
+]
